@@ -1,0 +1,65 @@
+operaciones con polinomios
+
+
+
+Declaracion de polinomios
+
+nombre_de_variable=[c1,c2,c3,c4,...,cn]
+
+donde c1,c2,c3,c4,...,cn son numeros enteros
+
+
+
+suma de polinomios #
+
+p1#p2
+
+donde p1,p2 son polinomios de cualquier grado
+
+
+
+resta de polinomios ~
+
+p1~p2
+
+donde p1,p2 son polinomios de cualquir grado
+
+
+
+multiplicacion de polinomios letra x
+
+p1xp2
+
+donde p1,p2 son polinomios de cualquier grado
+
+
+
+comando showp
+
+muestra una lista de polinomios declarados
+
+
+
+comando clearp
+
+borra todos los polinomios
+
+
+
+comando clc
+
+borra lo que se encuentre en pantalla
+
+
+
+ejemplo
+
+declaracion de polinomios
+
+p1=[2,4,5]
+p2=[3,5,6,7,8]
+
+
+*nota
+la declaracion de polinomios, sus operaciones, y el uso de comandos
+se deben hacer sin dejar espacios.
